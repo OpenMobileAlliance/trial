@@ -553,7 +553,7 @@
         </Item>
         <Item ID="45">
             <Name>Apparent Energy</Name>
-            <Operations>R</Operations>
+            <Operations>E</Operations>
             <MultipleInstances>Single</MultipleInstances>
             <Mandatory>Optional</Mandatory>
             <Type>Float</Type>
