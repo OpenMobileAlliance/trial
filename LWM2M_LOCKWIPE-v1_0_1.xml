@@ -75,7 +75,7 @@ LEGAL DISCLAIMER
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Mandatory</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>0-2</RangeEnumeration>
+				<RangeEnumeration>0..2</RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[State of the device:
 0: unlocked state Normal operation.
