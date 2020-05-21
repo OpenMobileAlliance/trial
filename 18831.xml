@@ -39,7 +39,7 @@ https://ioterop.com/
         <Description1>This LwM2M Object is used to configure data reporting over MQTT.</Description1>
         <ObjectID>18831</ObjectID>
         <ObjectURN>urn:oma:lwm2m:x:18831</ObjectURN>
-        <LWM2MVersion>1.0</LWM2MVersion>
+        <LWM2MVersion>DELETE</LWM2MVersion>
         <ObjectVersion>1.0</ObjectVersion>
         <MultipleInstances>Multiple</MultipleInstances>
         <Mandatory>Optional</Mandatory>
