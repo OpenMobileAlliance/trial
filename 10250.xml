@@ -62,7 +62,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         </RangeEnumeration>
         <Units>
         </Units>
-        <Description><![CDATA[Downlink application data, e.g. application response message of uplink data.]]></Description>
+        <Description></Description>
       </Item>
     </Resources>
     <Description2 />
