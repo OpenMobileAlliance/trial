@@ -35,7 +35,7 @@ POSSIBILITY OF SUCH DAMAGE.
         <![CDATA[This Object provides the information to represent a generic 3-Phase Power Meter.]]>
     </Description1>
     <ObjectID>10242</ObjectID>
-    <ObjectURN>urn:oma:lwm2m:x:10242</ObjectURN>
+    <ObjectURN>urn:oma:lwm2m:x:10243</ObjectURN>
     <LWM2MVersion>1.0</LWM2MVersion>
 	<ObjectVersion>1.0</ObjectVersion>
     <MultipleInstances>Multiple</MultipleInstances>
