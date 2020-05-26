@@ -43,7 +43,7 @@ POSSIBILITY OF SUCH DAMAGE.
         <MultipleInstances>Multiple</MultipleInstances>
         <Mandatory>Optional</Mandatory>
         <Resources>
-            <Item ID="5700">
+            <Item ID="4000">
                 <Name>Sensor Value</Name>
                 <Operations>R</Operations>
                 <MultipleInstances>Single</MultipleInstances>
