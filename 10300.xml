@@ -68,7 +68,7 @@ For more information about this object, please contact Bilhanan.Silverajan@tuni.
       <Item ID="4000">
         <Name>ObjectInstanceHandle</Name>
         <Operations>R</Operations>
-        <MultipleInstances>Single</MultipleInstances>
+        <MultipleInstances>Test</MultipleInstances>
         <Mandatory>Optional</Mandatory>
         <Type>Objlnk</Type>
         <RangeEnumeration></RangeEnumeration>
