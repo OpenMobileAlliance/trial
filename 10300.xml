@@ -69,7 +69,7 @@ For more information about this object, please contact Bilhanan.Silverajan@tuni.
         <Name>ObjectInstanceHandle</Name>
         <Operations>R</Operations>
         <MultipleInstances>Single</MultipleInstances>
-        <Mandatory>Optional</Mandatory>
+        <Mandatory>Test</Mandatory>
         <Type>Objlnk</Type>
         <RangeEnumeration></RangeEnumeration>
         <Units></Units>
