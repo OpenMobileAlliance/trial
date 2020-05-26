@@ -48,7 +48,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Mandatory</Mandatory>
 				<Type>Float</Type>
-				<RangeEnumeration></RangeEnumeration>
+				<RangeEnumeration>1.0..5.0</RangeEnumeration>
 				<Units></Units>
 				<Description>The current value of the analog input.</Description>
 			</Item>
