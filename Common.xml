@@ -3530,7 +3530,7 @@ Using values in range 0-127 is recommended to avoid ambiguities with byte order 
         <TSLink>0</TSLink>
       </Item>
       
-      <Item ID="6050">    
+      <Item ID="6048">    
         <Name>Fractional Timestamp</Name>     
         <Operations>R</Operations>     
         <Type>Float</Type>
