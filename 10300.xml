@@ -35,7 +35,7 @@ For more information about this object, please contact Bilhanan.Silverajan@tuni.
     <Resources>
       <Item ID="0">
         <Name>ObjectID</Name>
-        <Operations>R</Operations>
+        <Operations>Z</Operations>
         <MultipleInstances>Single</MultipleInstances>
         <Mandatory>Mandatory</Mandatory>
         <Type>Integer</Type>
