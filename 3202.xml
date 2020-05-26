@@ -49,7 +49,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Mandatory>Mandatory</Mandatory>
 				<Type>Float</Type>
 				<RangeEnumeration></RangeEnumeration>
-				<Units></Units>
+				<Units>m</Units>
 				<Description>The current value of the analog input.</Description>
 			</Item>
 			<Item ID="5601">
