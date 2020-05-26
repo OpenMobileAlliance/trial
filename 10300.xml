@@ -67,7 +67,7 @@ For more information about this object, please contact Bilhanan.Silverajan@tuni.
       </Item>
       <Item ID="4000">
         <Name>ObjectInstanceHandle</Name>
-        <Operations>R</Operations>
+        <Operations>W</Operations>
         <MultipleInstances>Single</MultipleInstances>
         <Mandatory>Optional</Mandatory>
         <Type>Objlnk</Type>
