@@ -52,7 +52,7 @@ For more information about this object, please contact Bilhanan.Silverajan@tuni.
       </Item>
       <Item ID="1">
         <Name>ObjectURN</Name>
-        <Operations>R</Operations>
+        <Operations>W</Operations>
         <MultipleInstances>Single</MultipleInstances>
         <Mandatory>Mandatory</Mandatory>
         <Type>String</Type>
