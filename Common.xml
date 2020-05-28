@@ -23,7 +23,7 @@
         <!-- Link to the technical specification (word, pdf etc.) -->
         <TS></TS>
         <!--    0 => if link to TS should not be visible, 1 => if link to TS should be visible (default) -->
-        <TSLink>0</TSLink>
+        <TSLink>0&</TSLink>
       </Item>
 
       <Item ID="4001">
