@@ -5,7 +5,7 @@
       <!-- Resource ID of the reusable resource -->
       <Item ID="4000">
         <!-- Name of the reusable resource -->
-        <Name>ObjectInstanceHandle</Name>
+        <Name>ObjectInstance&Handle</Name>
         <!-- Allowed Operation on the reusable resource-->
         <Operations>R</Operations>
         <!-- Type of the reusable resource -->
