@@ -13,7 +13,7 @@
         <!-- Range/Enumeration of the reusable resource -->
         <RangeEnumeration></RangeEnumeration>
         <!-- Unit of the reusable resource -->
-        <Units></Units>
+        <Units>TESTDELETE</Units>
         <!-- Name of the organization that has registered the object -->
         <Submitter>OMA</Submitter>
         <!-- Description of the reusable resource -->
