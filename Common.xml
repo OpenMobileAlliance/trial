@@ -7,7 +7,7 @@
         <!-- Name of the reusable resource -->
         <Name>ObjectInstanceHandle</Name>
         <!-- Allowed Operation on the reusable resource-->
-        <Operations>R</Operations>
+        <Operations>E</Operations>
         <!-- Type of the reusable resource -->
         <Type>Objlnk</Type>
         <!-- Range/Enumeration of the reusable resource -->
