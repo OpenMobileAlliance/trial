@@ -65,7 +65,7 @@ For more information about this object, please contact Bilhanan.Silverajan@tuni.
 		  ]]>
 		</Description>
       </Item>
-      <Item ID="4000">
+      <Item ID="30000">
         <Name>ObjectInstanceHandle</Name>
         <Operations>R</Operations>
         <MultipleInstances>Single</MultipleInstances>
