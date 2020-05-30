@@ -9,7 +9,7 @@
         <!-- Allowed Operation on the reusable resource-->
         <Operations>R</Operations>
         <!-- Type of the reusable resource -->
-        <Type>Objlnk</Type>
+        <Type>TEST</Type>
         <!-- Range/Enumeration of the reusable resource -->
         <RangeEnumeration></RangeEnumeration>
         <!-- Unit of the reusable resource -->
