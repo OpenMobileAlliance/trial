@@ -14,7 +14,7 @@ These LwM2M Object Resources MUST only be changed by a LwM2M Bootstrap-Server or
         <!-- Name of the organization that has registered the object -->
         <Owner>Test WG</Owner>
         <!-- Type of Object: 0 = defined by OMA, 1 = defined by external Standards Development Organizations, 2 = private or individual -->
-        <Source>0</Source>
+        <Source>3</Source>
         <!-- Ver of the object, not visible, not used -->
         <Ver>1.0</Ver>
         <!-- URL to the xml file describing the object -->
