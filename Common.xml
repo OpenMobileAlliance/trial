@@ -88,7 +88,7 @@
 
         <Description><![CDATA[Actions:a) Start data collection(DC)b) LogStatus is set to 0 (running)c) DC is emptied (default) or extended according arg'0' value Arguments definitions are described in the table below.]]></Description>
         
-         <TS>http://www.openmobilealliance.org/documents/whitepapers/OMA-ORG-LightweightM2M_Guidelines_Logging_Reusable_Resources-V1_0-20171129-A.pdf</TS>
+         <TS>http://www.openmobilealliance.org/documents/whitepapers/OMA-ORG-LightweightM2M&_Guidelines_Logging_Reusable_Resources-V1_0-20171129-A.pdf</TS>
         
         <TSLink>1</TSLink>
 
