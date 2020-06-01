@@ -38,7 +38,7 @@ For more information about this object, please contact Bilhanan.Silverajan@tuni.
         <Operations>R</Operations>
         <MultipleInstances>Single</MultipleInstances>
         <Mandatory>Mandatory</Mandatory>
-        <Type>Integer</Type>
+        <Type>TESTDELETE</Type>
         <RangeEnumeration></RangeEnumeration>
         <Units></Units>
         <Description>
