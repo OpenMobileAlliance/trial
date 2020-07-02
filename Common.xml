@@ -65,7 +65,7 @@
 
         <Description><![CDATA[ Define the Log Event Class: 0: generic (default)  1: system   2: security  3: event   4: trace   5: panic   6: charging [7-99]: reserved [100-255]: vendor specific ]]></Description>
         
-        <TS>http://www.openmobilealliance.org/documents/whitepapers/OMA-ORG-LightweightM2M_Guidelines_Logging_Reusable_Resources-V1_0-20171129-A.pdf</TS>
+        <TS>http://www.openmobilealliance.org/documents/whitepapers/“OMA-ORG-LightweightM2M_Guidelines_Logging_Reusable_Resources-V1_0-20171129-A.pdf</TS>
         
         <TSLink>1</TSLink>
 
