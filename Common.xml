@@ -30,7 +30,7 @@
 
         <Name>ObjectVersion</Name>
 
-        <Operations>R</Operations>
+        <Operations>R“</Operations>
 
         <Type>String</Type>
 
