@@ -1,4 +1,5 @@
 # LwM2M Registry
+
 This is a public repository dedicated to store and register new LwM2M Objects. See our wiki **[LwM2M wiki](https://github.com/OpenMobileAlliance/lwm2m-registry/wiki)**.
   
 # Registration Process  
